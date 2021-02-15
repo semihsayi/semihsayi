@@ -7,3 +7,5 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semihsayi&theme=dark&show_icons=true&count_private=true)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=semihsayi&langs_count=5&theme=tokyonight)]()
