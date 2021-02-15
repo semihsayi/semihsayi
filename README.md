@@ -4,3 +4,7 @@
 - 🔭 Elazig provincial health directorate
 - 📖 life time learner
 - ☕ coffee addict
+
+
+
+https://github-readme-stats.vercel.app/api?username=semihsayi&show_icons=true&theme=dark
