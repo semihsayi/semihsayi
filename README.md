@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Semih</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
 
 - 🔭 I am Software Project Manager at Elazig Provincial Health Directorate
 - 📖 I love to learn!
