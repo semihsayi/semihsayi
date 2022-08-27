@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Semih</h1>
 
-- 🔭 I am Software Project Manager at Elazig Provincial Health Directorate
-- 📖 I graduated with a Master's in Management Information Systems
+- 🔭 I am a Full stack developer at Elazig Provincial Health Directorate
+- 📖 I have a master's degree in Management Information Systems.
 - 📖 I love to learn!
 - ☕ You can reach me on [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/semihsayi/)
 
@@ -9,8 +9,8 @@ I have developed Intranet and Self Service Active Directory applications. I alwa
 
 I’m currently working on; 
 
-- [**Intranet**](https://github.com/semihsayi/Intranet) - Intranet Portal
 - [**Self Service AD**](https://github.com/semihsayi/SelfServiceAD) - Self Service Active Directory Application
+- [**Intranet**](https://github.com/semihsayi/Intranet) - Intranet Portal
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semihsayi&theme=dark&show_icons=true&count_private=true)
 
