@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Self service active directory application and Intranet application**
+- 🔭 I’m currently working on **Self service active directory and Intranet applications**
 - 📖 I love to learn!
 - ☕ You can reach me on [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/semihsayi/)
 
