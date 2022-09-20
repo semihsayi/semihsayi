@@ -3,12 +3,8 @@
 
 - 🔭 I’m currently working on **Self service active directory application and Intranet application**
 - 📖 I love to learn!
-- 📫 How to reach me **https://www.linkedin.com/in/semihsayi/**
+- ☕ You can reach me on [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/semihsayi/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/semihsayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semihsayi" height="30" width="40" /></a>
-</p>
 
 I have developed Intranet and Self Service Active Directory applications. I always try to choose the best language and technology for what I do. It is also a joy for me to read and search new and best technologies for my professional skills. Learning is one of my hobbies. 
 
