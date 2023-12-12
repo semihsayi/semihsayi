@@ -6,7 +6,7 @@
 - ☕ You can reach me on [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/semihsayi/)
 
 
-I have developed (Self-Service Active Directory)[https://github.com/semihsayi/Self-Service-AD],Intranet and KolayDent applications. I always try to choose the best language and technology for what I do. It is also a joy for me to read and search new and best technologies for my professional skills. Learning is one of my hobbies. 
+I have developed [Self-Service Active Directory](https://github.com/semihsayi/Self-Service-AD),Intranet and KolayDent applications. I always try to choose the best language and technology for what I do. It is also a joy for me to read and search new and best technologies for my professional skills. Learning is one of my hobbies. 
 
 
 <h3 align="left">Languages and Tools:</h3>
