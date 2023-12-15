@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A passionate Full-stack developer from Turkey</h3>
 
 - 🔭 Check my **[Self-Service Active Directory](https://github.com/semihsayi/Self-Service-AD), Intranet and [KolayDent](https://github.com/semihsayi/Kolay-Dent) projects**
 - 📖 I love to learn!
