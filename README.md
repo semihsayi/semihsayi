@@ -14,4 +14,4 @@ I always try to choose the best language and technology for what I do. It is als
 -  **DevOps:**  Amazon Web Services (AWS), Docker, Kubernetes, Redis
 -  **Logging:**  Prometheus, Datadog
 -  **FrontEnd:**  MVC, Angular
--  **Database:** Relational Database (MSSQL, PostgreSQL) / Non-Relational Database (MongoDB)
+-  **Database:** Relational Database (MSSQL, Oracle) / Non-Relational Database (MongoDB)
