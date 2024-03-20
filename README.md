@@ -9,7 +9,7 @@ I always try to choose the best language and technology for what I do. It is als
 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  .NET, Golang
+-  **BackEnd:**  .NET, Node.js, Golang
 -  **Queue:**  RabbitMQ
 -  **DevOps:**  Amazon Web Services (AWS), Docker, Kubernetes, Redis
 -  **Logging:**  Prometheus, Datadog
