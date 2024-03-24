@@ -11,7 +11,7 @@ I always try to choose the best language and technology for what I do. It is als
 
 -  **BackEnd:**  .NET, Node.js, Golang
 -  **Queue:**  RabbitMQ
--  **DevOps:**  Amazon Web Services (AWS), Docker, Kubernetes, Redis
+-  **DevOps:**  AWS, Docker, Kubernetes, Redis
 -  **Logging:**  Prometheus, Datadog
 -  **FrontEnd:**  MVC, Angular
--  **Database:** Relational Database (MSSQL, Oracle) / Non-Relational Database (MongoDB)
+-  **Database:** MSSQL, Oracle, MongoDB
