@@ -9,7 +9,7 @@ I always try to choose the best language and technology for what I do. It is als
 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  .NET, Node.js, Golang
--  **DevOps:**  AWS, Docker, Kubernetes, Redis
+-  **BackEnd:**  .NET, Node.js, Go
+-  **DevOps:**  AWS, Docker, Kubernetes, Redis, RabbitMQ
 -  **FrontEnd:**  MVC, Angular
 -  **Database:** MSSQL, Oracle, MongoDB
